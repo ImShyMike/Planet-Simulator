@@ -1,4 +1,4 @@
-![Demo Image](/assets/demo.png)
+![Demo Image](/assets/demo.gif)
 
 # Planet-Simulator
  A planet/star/gravity simulator using python
